@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: infrastructure
+  name: infrastructure33
   description: The infra business unit
 spec:
   type: business-unit
   profile:
-    displayName: Infrastructure
+    displayName: Infrastructure33
     email: infrastructure@example.com
     picture: https://example.com/groups/bu-infrastructure.jpeg
   parent: ops
